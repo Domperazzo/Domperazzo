@@ -19,7 +19,7 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "Physics student with the passione for data and coding",
+		"- ⚡ Quick bio:":                     "Physics student with the passione for data and coding",
 		"- 🔭 I’m currently working on":      "Measuring the flux of muons at the sea level",
 		"- 🌱 I’m currently learning":        "Basis of Machine Learning",
 	}
